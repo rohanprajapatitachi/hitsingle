@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 const arr = [
-  "6606e4c741226b81d041b203"
+  ""
 ]
 
 const awaitTimer = (ms) => new Promise((res) => setTimeout(res, ms));
